@@ -5,8 +5,11 @@ Each file represents a step in my learning journey.
 
 ## Files:
 
-- **Index.html** → My first HTML page with basic headings and paragraph.  
-- **Basictags.html** → Practice page for HTML tags including headings, lists, links, images, and text formatting.
+- **Day1_BasicHTML.html** → My first HTML page with basic headings and paragraph.  
+- **Day2_BasictagsPractice.html** → Practice page for HTML tags including headings, lists, links, images, and text formatting.
+- **Day3_ButtonStyling.html** — Button Styling
+    Practiced CSS by creating three styled buttons (Subscribe, Join, and Tweet).  
+    Learned how to use background color, border radius, and text formatting
 
 ## Purpose:
 
